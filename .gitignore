@@ -1,0 +1,6 @@
+# Project exclude paths
+/venv/python38/
+/dist/
+
+# Project exclude paths
+/FlaskSSL.egg-info/
